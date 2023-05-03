@@ -12,3 +12,9 @@
 
 - ✅ [React] renderização condicional
 - ✅ [React] renderização de listas
+
+- ✅ [React] componente de layout com grid
+- ✅ [React] hooks personalizados
+- 🔴 [React] chamar api https://swapi.dev/
+
+- 🔴 [React] hooks... useState, useEffect e useCallback
