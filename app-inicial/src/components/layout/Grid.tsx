@@ -1,4 +1,3 @@
-
 interface GridProps {
   cols?: number
   sm?: number
